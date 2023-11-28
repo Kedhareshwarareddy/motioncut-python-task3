@@ -17,8 +17,10 @@ To design and build a Python program that generates strong, secure passwords. Th
 The following important libraries were used for this project:
 
 
+
  -random
  -string
+ 
 
  
   ## Working of the Code:
